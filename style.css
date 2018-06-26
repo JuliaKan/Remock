@@ -88,11 +88,11 @@ html{
     display:flex;
     flex-direction:column;
     height:25px;
-    width:350px;
     font-size:medium;
     border-color:gray;
     color:gray;
     margin:4px;
+
 }
 #subscribe{
     display:flex;
@@ -107,4 +107,28 @@ html{
 }
 input{
     margin:4px;
+}
+#giveaway{
+    background-color:rgb(255,199,143);
+    margin: 4px;
+    margin-top: 22px;
+}
+#littlepic{
+    float: left;
+    width: 75px;
+}
+#ad{
+    font-size: 13px;
+}
+#tabletalk{
+    font-size: 13px;
+}
+#tabletalkorange{
+    background-color:rgb(255,199,143);
+}
+#bluebox{
+    width: 215px;
+}
+#bestmommy{
+    width: 215px;
 }
