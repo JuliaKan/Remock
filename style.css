@@ -112,6 +112,7 @@ input{
     background-color:rgb(255,199,143);
     margin: 4px;
     margin-top: 22px;
+    text-align:center;
 }
 #littlepic{
     float: left;
@@ -131,4 +132,7 @@ input{
 }
 #bestmommy{
     width: 215px;
+}
+#easterbaskets{
+    float:left;
 }
