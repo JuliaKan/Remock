@@ -41,3 +41,38 @@ html{
     background-color:rgb(128, 0, 49);
 
 }
+#logo{
+    display:flex;
+    justify-content:space-between;
+    padding: 8px;
+}
+
+.bluebar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    background-color:rgb(191,220,203);
+    overflow: hidden;
+}
+.bluelinks{
+    text-decoration:none;
+    color: rgb(128, 0, 49);
+    padding: 10px;
+}
+#left{
+    height: 100%;
+    background-color:white;
+    width:75%;
+    margin:10px;
+}
+#right{
+    height: 100%;
+}
+#subwhite{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#jellybean{
+    float: left;
+}
