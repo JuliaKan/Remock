@@ -1,0 +1,43 @@
+html{
+    margin:0;
+}
+#tan{
+    background-color:rgb(216, 203, 188);
+    margin-top:0;
+    font-family: 'Noto Sans', sans-serif;
+
+    
+}
+#bigBox{
+    background-color:#ffffff;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:0;
+    
+}
+.topnav{
+    display:flex;
+    flex-direction:row-reverse;
+    background-color:rgb(255,199,143);
+    height:40px;
+    
+    
+
+}
+.topitems{
+    display:flex;
+    align-self:center;
+    margin-left:10px;
+    margin-right:10px; 
+    text-decoration:none;
+    color:rgb(128, 0, 49);
+    font-size:1.2em;
+    height:40px;
+    padding-top:15px;
+      
+}
+.topitems:hover{
+    color:#ffffff;
+    background-color:rgb(128, 0, 49);
+
+}
